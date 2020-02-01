@@ -1,0 +1,10 @@
+NPM = 1806269751
+Nama = Muhammad Riza Fauzi Rahman
+Kelas = Ekstensi 2018
+Mata Kuliah = APAP
+Jurusan = Sistem Informasi
+
+
+
+
+
